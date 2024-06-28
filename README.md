@@ -4,7 +4,7 @@
 Welcome to the Police Traffic Stops Data Analysis Project! This project aims to provide insights into law enforcement practices through the analysis of a dataset containing information on police traffic stops.
 
 ## Dataset
-The dataset used in this analysis was sourced from [insert source name/link], and it includes detailed records of police traffic stops. The dataset comprises information such as stop date/time, driver demographics, violation details, and stop outcomes.
+The dataset used in this analysis includes detailed records of police traffic stops. The dataset comprises information such as stop date/time, driver demographics, violation details, and stop outcomes.
 
 ## Tools and Libraries
 The analysis was conducted using Python programming language along with the following libraries:
